@@ -57,7 +57,7 @@ public class Message {
         return content;
     }
 
-    public void setContent(String Content) {
+    public void setContent(String content) {
         this.content = content;
     }
 
